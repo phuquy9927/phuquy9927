@@ -9,7 +9,6 @@ I'm a final-year Information Technology student at Van Hien University. I enjoy 
 ## Tech
 
 **Backend:** Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA 
-
 **Frontend:** HTML · CSS · JavaScript · JSP · JSTL  
 **Database:** MySQL  
 **Tools:** Git · Maven · Postman
