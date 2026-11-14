@@ -8,7 +8,7 @@ I'm a final-year Information Technology student at Van Hien University. I enjoy 
 
 ## Tech
 
-**Backend:** Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · PHP  
+**Backend:** Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA 
 **Frontend:** HTML · CSS · JavaScript · JSP · JSTL  
 **Database:** MySQL  
 **Tools:** Git · Maven  · Postman
@@ -43,4 +43,4 @@ GPA: **3.24/4.0**
 
 ---
 
-[GitHub profile](https://github.com/phuquy9927)
+
