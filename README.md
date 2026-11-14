@@ -1,6 +1,6 @@
 # Hi, I'm Huỳnh Phú Quí 👋
 
-### Backend Java Developer | Information Technology Student | Internship 09/2025 - 11/2025
+### Backend Java Developer | Information Technology Student 
 
 [GitHub](https://github.com/phuquy9927) · [Email](mailto:phuquy9927@gmail.com)
 
