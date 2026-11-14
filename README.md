@@ -1,6 +1,6 @@
-# Phú Quí
+# Hi, I'm Huỳnh Phú Quí 👋
 
-**Backend Java Developer · Information Technology Student**
+### Backend Java Developer | Information Technology Student | Internship 09/2025 - 11/2025
 
 [GitHub](https://github.com/phuquy9927) · [Email](mailto:phuquy9927@gmail.com)
 
@@ -11,7 +11,7 @@ I'm a final-year Information Technology student at Van Hien University. I enjoy 
 **Backend:** Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA 
 **Frontend:** HTML · CSS · JavaScript · JSP · JSTL  
 **Database:** MySQL  
-**Tools:** Git · Maven  · Postman
+**Tools:** Git · Maven · Postman
 
 ## Projects
 
@@ -30,7 +30,7 @@ An e-commerce web application for selling backpacks, built with Java and Spring 
 ## Experience
 
 **Software Development Intern** · Luc Giac Joint Stock Company (HHC)  
-*Internship*
+*09/2025 - 11/2025*
 
 - Strengthened programming skills through independent learning and hands-on practice.
 - Studied Java and backend development concepts, applying software engineering fundamentals in personal learning projects.
@@ -42,5 +42,3 @@ An e-commerce web application for selling backpacks, built with Java and Spring 
 GPA: **3.24/4.0**
 
 ---
-
-
