@@ -2,98 +2,97 @@
 
 ### Backend Java Developer | Information Technology Student
 
-\<p align="center">   \<b>Interested in Backend Development, Software Engineering & Web Applications\</b> \</p>
+<p align="center">
+  <b>Interested in Backend Development, Software Engineering, and Building Practical Web Applications</b>
+</p>
 
 ---
 
 ## About Me
 
-I'm a final-year Information Technology student at **Van Hien University**, passionate about software development and building practical web applications.
+I'm a final-year Information Technology student at Van Hien University, passionate about software development and building practical web applications.
 
-I have experience working with Java, Spring Boot, PHP, and relational databases. I'm currently focusing on improving my backend development skills, especially in designing RESTful APIs, database management, and building secure web applications.
+I enjoy working on backend systems, RESTful APIs, and database-driven applications. My focus is on improving my skills in Java, Spring Boot, and software architecture while building real-world projects.
 
 - 🎓 Information Technology student at Van Hien University
 - 💻 Interested in Backend Development and Software Engineering
-- 🌱 Currently learning: Java, Spring Boot, RESTful API design
-- 🚀 Building: **BaloShop – Online Backpack Shopping Website**
-- 🎯 Career Goal: Backend Java Developer
-
-## Tech Stack
-
-**Backend**
-
-Java 
-
-
-
-\
-
-
-**Frontend**
-
-
-
-
-\
-
-
-**Database**
-
-\
-
-
-**Tools & Others**
-
-
-
-\
-
+- 🌱 Currently learning: Java, Spring Boot, RESTful APIs
+- 🚀 Building: BaloShop – Online Backpack Shopping Website
+- 🎯 Career goal: Backend Java Developer
 
 ---
 
-## Featured Projects
+## Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- RESTful API
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- JSP / JSTL
+
+### Database
+- MySQL
+- PostgreSQL
+
+### Tools & Others
+- Git & GitHub
+- Maven
+- Docker
+- Postman
+- VS Code / IntelliJ IDEA
+
+---
+
+## Featured Project
 
 ### 🎒 BaloShop – Online Backpack Shopping Website
 
 A web-based e-commerce application for selling backpacks, developed using Java and Spring Boot.
 
-**Key Features:**
+#### Key Features
+- User registration, login, and authentication
+- Product listing and product detail pages
+- Shopping cart and order management
+- Role-based access control with Spring Security
+- Database management with Spring Data JPA and MySQL
+- VNPay sandbox payment integration
+- Google OAuth2 login
+- Cloudinary image upload integration
 
-- User registration, login, and authentication.
-- Product listing, product details, and product management.
-- Shopping cart and order management.
-- Role-based access control using Spring Security.
-- Database management with Spring Data JPA and MySQL.
-- VNPay sandbox payment integration.
-- Google OAuth2 authentication.
-- Cloudinary image upload integration.
-
-**Technologies:**
-
+#### Technologies Used
 `Java 17` `Spring Boot` `Spring MVC` `Spring Security` `Spring Data JPA` `MySQL` `JSP` `JSTL` `Maven`
 
-**GitHub:** [BaloShop Repository](https://github.com/phuquy9927/website-java-spring-boot-mvc)
+#### Repository
+[BaloShop Repository](https://github.com/phuquy9927/website-java-spring-boot-mvc)
 
 ---
 
 ## Education
 
-**Van Hien University**
-
+**Van Hien University**  
 Information Technology
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=phuquy9927&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=phuquy9927\&show_icons=true\&theme=default\&hide_border=true)" height="165" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=phuquy9927&layout=compact&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=phuquy9927\&layout=compact\&theme=default\&hide_border=true)" height="165" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phuquy9927&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuquy9927&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## Connect With Me
 
 - GitHub: [@phuquy9927](https://github.com/phuquy9927)
-- Email: **Your email address**
+- Email: [phuquy9927@gmail.com](mailto:phuquy9927@gmail.com)
+
